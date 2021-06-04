@@ -1,19 +1,19 @@
 const CONFIG = {
     introTitle: 'ăn cut mũi hong ??!',
-    introDesc: `Trái đất vốn lạ thường
-    Mà sao em cứ đi nhầm đường
-    Lạc vào tim anh lẻ loi
-    Đằng sau chữ yêu đây là thương`,
+    introDesc: `Như Dũng ngu nhu chos  
+    Hay ăn cut mũi
+    Hê Hê Hê Hê
+    Miễn là mày đau khổ `,
     btnIntro: 'hihi',
     title: 'Phải chăng em đã yêu ngay từ cái nhìn đầu tiên 😙',
     desc: 'Phải chăng em đã say ngay từ lúc thấy nụ cười ấy ',
-    btnYes: 'Vẫn cứ là thích anh <33',
+    btnYes: 'Vẫn cứ là thích ăn <33',
     btnNo: 'Không, Anh trai à :3',
-    question:'Trên thế giới hơn 7 tỉ người mà sao em lại yêu anh <3',
+    question:'Trên thế giới có nhiều món ngon mà sao em lại thích ăn cut mũi? <3',
     btnReply: 'Gửi cho anh <3',
-    reply: 'Yêu thì yêu mà không yêu thì yêu <33333333',
-    mess: 'Anh biết mà 🥰. Yêu em nhiều nhiều 😘😘',
-    messDesc: 'Tối nay 7h anh qua đón nhé công chúa.',
+    reply: 'cutttttttttttt <33333333',
+    mess: 'Dm con Nhu Dung 😘😘',
+    messDesc: 'hihihihihihihihihi.',
     btnAccept: 'Okiiiii lun <3',
     messLink: 'http://fb.com' //link mess của các bạn. VD: https://m.me/nam.nodemy
 }
