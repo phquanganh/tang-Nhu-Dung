@@ -1,12 +1,9 @@
 const CONFIG = {
     introTitle: 'ăn cut mũi hong ??!',
-    introDesc: `Như Dũng ngu nhu chos  
-    Hay ăn cut mũi
-    Hê Hê Hê Hê
-    Miễn là mày đau khổ `,
-    btnIntro: 'hihi',
-    title: 'Phải chăng em đã yêu ngay từ cái nhìn đầu tiên 😙',
-    desc: 'Phải chăng em đã say ngay từ lúc thấy nụ cười ấy ',
+    introDesc: `Ở đây có cục cut mũi to đùng dành co mày `,
+    btnIntro: 'Ấn vào đây',
+    title: 'Như DŨng ngu 😙',
+    desc: 'hey ',
     btnYes: 'Vẫn cứ là thích ăn <33',
     btnNo: 'Không, Anh trai à :3',
     question:'Trên thế giới có nhiều món ngon mà sao em lại thích ăn cut mũi? <3',
